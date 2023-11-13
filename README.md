@@ -2,7 +2,7 @@
 
 TPC Application to cultured Endosymbionts.
 
-This GitHub Repository has been created to deposit code and data as used in a recent TPC study contrasting the thermal performance of cultured coral endosymbiont photo-physiology (Dilernia et al. in review). Including algorithm evaluation and reporting selection criteria for best model choice, in conjunction with depositing data from TPC studies, allowing for reprocessing at any time using different models for comparison to optimise results. 
+This GitHub Repository has been created to deposit code and data as used in a recent TPC study contrasting the thermal performance of cultured coral endosymbiont photo-physiology (Dilernia et al. 2023). Including algorithm evaluation and reporting selection criteria for best model choice, in conjunction with depositing data from TPC studies, allowing for reprocessing at any time using different models for comparison to optimise results. 
 
 All statistical analyses for these TPCs were carried out in RStudio Teams version 2022.07.02 (Build 576), with additional modelling packages “nls.multstart” and “rTPC” integrated by Padfield et al. (2021). The code used for best model selection has been deposited as "TPC Model Selection", and the code used to prepare TPC for the Symbiodiniaceae following selection of best model has been deposited as "FittingChosenTPC".
 
